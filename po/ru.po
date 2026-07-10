@@ -100,7 +100,7 @@ msgstr "Вертикально, слева направо"
 #: webpanel/webpanel.h:23 webpanel/webpanel.h:32 webpanel/webpanel.h:40
 #: webpanel/webpanel.h:44
 msgid "None"
-msgstr "Никак"
+msgstr "Нет"
 
 #: webpanel/webpanel.h:23 webpanel/webpanel.h:277
 msgid "Blur"
