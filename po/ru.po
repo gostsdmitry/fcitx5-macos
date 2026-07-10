@@ -220,11 +220,11 @@ msgstr "Цвет комментария"
 
 #: webpanel/webpanel.h:130 webpanel/webpanel.h:185
 msgid "Paging button color"
-msgstr "Цвет кнопки "Прокрутка вверх""
+msgstr "Цвет кнопки постраничной навигации"
 
 #: webpanel/webpanel.h:133 webpanel/webpanel.h:188
 msgid "Disabled paging button color"
-msgstr "Отключенный цвет кнопки \"Прокрутка вверх\""
+msgstr "Отключенный цвет кнопки постраничной навигации"
 
 #: webpanel/webpanel.h:135 webpanel/webpanel.h:191
 msgid "Indicator text color"
