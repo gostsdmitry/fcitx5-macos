@@ -548,7 +548,7 @@ msgstr "Курсор"
 
 #: webpanel/webpanel.h:394
 msgid "Highlight"
-msgstr "Выделить"
+msgstr "Выделение"
 
 #: webpanel/webpanel.h:395
 msgid "Size"
