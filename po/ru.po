@@ -19,7 +19,7 @@ msgstr ""
 
 #: macosfrontend/macosfrontend.h:27
 msgid "Hidden"
-msgstr "Скрыть"
+msgstr "Скрыто"
 
 #: macosfrontend/macosfrontend.h:28
 msgid "Toggle input method"
@@ -63,7 +63,7 @@ msgstr "Интервал опроса буфера обмена (c)"
 
 #: macosnotifications/macosnotifications.h:20
 msgid "Hidden Notifications"
-msgstr "Скрыть уведомления"
+msgstr "Скрытые уведомления"
 
 #: webpanel/webpanel.h:17 webpanel/webpanel.h:23 webpanel/webpanel.h:28
 msgid "System"
