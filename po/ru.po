@@ -332,7 +332,7 @@ msgstr "Используйте основные цифровые клавиши 
 
 #: webpanel/webpanel.h:243
 msgid "Use keypad number keys to select candidate"
-msgstr "Используйте цифровые клавиши на клавиатуре для выбора слова-кандидата"
+msgstr "Используйте цифровые клавиши цифрового блока на клавиатуре для выбора слова-кандидата"
 
 #: webpanel/webpanel.h:245
 msgid "Optimize for Hyper key"
